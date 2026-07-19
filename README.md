@@ -174,7 +174,7 @@ Regression, Classification, Prediction Models, Data Analysis.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/indrajitdutta420">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -186,7 +186,7 @@ Regression, Classification, Prediction Models, Data Analysis.
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:indrajitduttaforeducation@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
