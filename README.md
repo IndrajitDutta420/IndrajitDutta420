@@ -1,124 +1,205 @@
+<div align="center">
+
 # 👋 Hi, I'm Indrajit Dutta
 
-🎓 Computer Science Engineering Student | 🚀 AI & Machine Learning Enthusiast | 💻 Full-Stack Developer
+### 🚀 AI & Machine Learning Enthusiast | Full Stack Developer | IoT Innovator
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;IoT+Developer;Competitive+Programmer;Always+Learning+Always+Building" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=IndrajitDutta420&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<a href="https://github.com/IndrajitDutta420">
+<img src="https://img.shields.io/github/followers/IndrajitDutta420?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-- 📊 Exploring **Data Science** and building real-world ML projects
-- 🌐 Learning **Full-Stack Web Development** with modern technologies
-- 💡 Improving my **Data Structures & Algorithms** skills daily
-- 🔌 Interested in **IoT**, automation, and intelligent systems
-- 🌱 Believe in learning by building practical projects
+🎓 **B.Tech Computer Science Engineering Student**
 
----
+💡 Passionate about solving real-world problems using Artificial Intelligence, Machine Learning, and Full-Stack Development.
 
-## 🚀 Currently Learning
+🚀 Currently building projects in AI, Web Development, and IoT while improving Data Structures & Algorithms.
 
-- 🧠 Machine Learning & Deep Learning
-- 📈 Data Structures & Algorithms
-- ⚛️ React & Next.js
-- 🐍 Python for AI & Data Science
-- ☁️ Backend Development using Node.js & FastAPI
-- 🐳 Docker & Deployment
+- 🤖 AI & Machine Learning
+- 🌐 Full Stack Development
+- 📊 Data Science
+- 🔌 IoT & Embedded Systems
+- 🏆 Hackathons
+- 💻 Competitive Programming
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Currently Learning
 
-### Programming Languages
+- Machine Learning & Deep Learning
+- Data Structures & Algorithms
+- React.js
+- Next.js
+- FastAPI
+- Docker
+- System Design
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+</p>
 
 ### AI / ML
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=opencv"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+</p>
 
 ### Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+<p>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=express"/>
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=firebase"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+# 🌟 Featured Projects
 
-- 🥇 Top **1% GPA Certificate** Recipient
-- 📜 NPTEL Certified in **Database Management Systems**
-- 🎓 NVIDIA AI Certificate Holder
-- 💼 Internship Experience
-- 🏅 Participant in Smart India Hackathon
+### 🔥 AI Heat Stress Detection
+
+IoT + ESP32 + Machine Learning + Dashboard
 
 ---
 
-## 🎯 Goals for 2026
+### 📧 Spam Detection using Machine Learning
 
-- 🚀 Become an AI/ML Engineer
-- 🧠 Master Data Structures & Algorithms
-- 🌍 Build impactful open-source projects
-- ⭐ Reach 500+ GitHub contributions
-- 💼 Secure a Software/AI Internship
+Detect spam SMS using NLP and Scikit-Learn.
 
 ---
 
-## 🤝 Connect With Me
+### 🌐 Personal Portfolio Website
+
+Responsive portfolio showcasing projects and skills.
+
+---
+
+### 🤖 AI & Data Science Projects
+
+Regression, Classification, Prediction Models, Data Analysis.
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IndrajitDutta420&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=IndrajitDutta420&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndrajitDutta420&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IndrajitDutta420&theme=github-dark"/>
+
+</p>
+
+---
+
+# 🏅 Certifications
+
+🏆 NPTEL Top 1% – Database Management Systems
+
+🎓 NVIDIA AI Fundamentals
+
+💼 Internship Experience
+
+🏅 Smart India Hackathon Participant
+
+---
+
+# 🎯 Goals
+
+- 🚀 Become an AI / ML Engineer
+- 🧠 Master DSA
+- 🌍 Contribute to Open Source
+- ⭐ Reach 1000+ GitHub Contributions
+- 💼 Secure a Software Engineering Internship
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+<a href="https://github.com/IndrajitDutta420">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/>
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-> *"Code. Learn. Build. Repeat."* 🚀
+<div align="center">
 
+## 💬 Quote
+
+### *"Code. Learn. Build. Repeat."* 🚀
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
